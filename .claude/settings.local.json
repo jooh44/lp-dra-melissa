@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(start \"\" \"C:\\Users\\Administrador\\Documents\\Projetos\\Dra Melissa\\index.html\")",
+      "WebFetch(domain:www.sliderrevolution.com)",
+      "WebFetch(domain:webflow.com)",
+      "WebFetch(domain:veterinarioflorianopolis.com.br)",
+      "Bash(mkdir:*)",
+      "Bash(move:*)",
+      "Bash(mv:*)",
+      "WebFetch(domain:aumivet.com.br)",
+      "Bash(powershell:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ],
+    "deny": [],
+    "defaultMode": "acceptEdits"
+  }
+}
